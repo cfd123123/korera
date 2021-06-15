@@ -1,0 +1,55 @@
+
+.login_container{
+    display: flex ;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+    height: 300px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+/* control shift +L */
+
+.signin_title{
+
+    font-size: large;
+    margin: auto;
+}
+
+
+.input_form{
+    display: flex;
+    flex-direction: column;
+}
+
+.btn btn-warning btn-block{
+    font-weight: bold;
+    
+}
+
+.signup_password{
+    display: flex;
+    margin-top: 30px;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+
+.forgot-password{
+  margin-left: 140px;
+  margin-top:  20px;
+}
+
+.b1{
+    margin-top: 20px;
+}
+
+.b2{
+    height:40px;
+    margin-top: 10px;
+}

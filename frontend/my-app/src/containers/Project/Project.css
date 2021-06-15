@@ -1,0 +1,24 @@
+.card_header{
+    display:flex;
+    flex-direction: row;
+}
+.popover{
+    display:flex;
+    flex-direction: column;
+    width: 170px;
+    justify-content: space-between
+}
+.c1{
+    height:20px;
+}
+
+.p1{
+    position:inherit;
+    font-size: 15px;
+    
+}
+
+.p2{
+    position:inherit;
+    font-size: 15px;
+}

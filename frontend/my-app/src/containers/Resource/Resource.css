@@ -1,0 +1,20 @@
+.parent{
+    position: relative;
+}
+.header{
+    display: flex;
+    
+}
+.ant-input-group-wrapper{
+    color: aqua;
+    justify-content: flex-end;
+}
+
+.anticon svg-search{
+    width:200px !important
+}
+.plus{
+    border: 1px solid black;
+    justify-content: flex-end;
+    color: rgb(231, 136, 12)
+} 
